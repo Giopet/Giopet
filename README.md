@@ -4,7 +4,7 @@
 
 ## 🔭 Introduction
 
-I am a Senior Software Engineer and Tech Content Creator talking about .Net, C#, fintech and generally programming.
+I am a Microsoft MVP, a Senior Software Engineer and Tech Content Creator talking about .Net, C#, fintech and generally programming.
 
 <!--
 **Giopet/Giopet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
